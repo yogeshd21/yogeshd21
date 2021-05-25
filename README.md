@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently pursuing my Master's from Virginia Tech
-- 🌱 I’m currently learning more about unsupervised ML applications
+- 🌱 I’m currently learning more about unsupervised Machine Learning applications and developing my skills in Deep Learning models and its applications
 - 👯 I’m looking to collaborate on AI/ML/DL related work
 - 🤔 I’m looking for help in taking stuff beyond just knowing it
 - 💬 Ask me about ML/AI/SEO/Python
